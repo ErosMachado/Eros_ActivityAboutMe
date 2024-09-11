@@ -1,0 +1,16 @@
+# Arquivos de build
+*.o
+*.out
+*.exe
+
+# Pastas de build
+/build/
+bin/
+
+# Arquivos de backup
+*.bak
+*.tmp
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
