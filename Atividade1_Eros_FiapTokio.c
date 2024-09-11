@@ -10,7 +10,7 @@ int main()
     // Data de criação: 14/08/2024
 
     //  Informações Pessoais
-    printf("Nome: Eros Hanry Rodrigues Machado\n");
+    printf("Nome: Eros Machado\n");
 
     printf("Idade: %d anos\n", idade);
     if (idade >= 18)
@@ -43,7 +43,7 @@ int main()
 
     char *curiosidades[] = {
         "Entusiasta de olimpiadas cientificas, incluindo Fisica, Astronomia e Quimica",
-        "Pai de dois gatos laranjas (Sim! Laranjas!)",
+        "Pai de um gato laranja (Sim! Laranja!)",
         "Apaixonado por xadrez"};
 
     for (int i = 0; i < 3; i++)
