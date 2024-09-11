@@ -1,2 +1,3 @@
 # Eros_Atividade1_FiapTokio
-Essa é uma atividade para a aula da FIAP-TokioMarine
+
+This is an About Me Activity with personal information and some dreams and goals. Carried out at Fiap during a Tokio Marine project.
